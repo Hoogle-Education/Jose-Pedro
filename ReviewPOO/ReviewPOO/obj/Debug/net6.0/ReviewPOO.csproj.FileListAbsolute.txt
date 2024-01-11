@@ -1,0 +1,14 @@
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\bin\Debug\net6.0\ReviewPOO.exe
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\bin\Debug\net6.0\ReviewPOO.deps.json
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\bin\Debug\net6.0\ReviewPOO.runtimeconfig.json
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\bin\Debug\net6.0\ReviewPOO.dll
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\bin\Debug\net6.0\ReviewPOO.pdb
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.AssemblyInfoInputs.cache
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.AssemblyInfo.cs
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.csproj.CoreCompileInputs.cache
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.dll
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\refint\ReviewPOO.dll
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.pdb
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ReviewPOO.genruntimeconfig.cache
+C:\classes\Alunos\Jose Pedro\ReviewPOO\ReviewPOO\obj\Debug\net6.0\ref\ReviewPOO.dll
