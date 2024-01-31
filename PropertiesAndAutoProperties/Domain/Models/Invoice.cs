@@ -1,4 +1,4 @@
-namespace PropertiesAndAutoProperties.Models;
+namespace PropertiesAndAutoProperties.Domain.Models;
 
 public class Invoice
 {

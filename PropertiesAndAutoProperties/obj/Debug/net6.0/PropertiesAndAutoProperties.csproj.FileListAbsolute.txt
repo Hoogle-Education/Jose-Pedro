@@ -1,0 +1,14 @@
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\bin\Debug\net6.0\PropertiesAndAutoProperties.exe
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\bin\Debug\net6.0\PropertiesAndAutoProperties.deps.json
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\bin\Debug\net6.0\PropertiesAndAutoProperties.runtimeconfig.json
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\bin\Debug\net6.0\PropertiesAndAutoProperties.dll
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\bin\Debug\net6.0\PropertiesAndAutoProperties.pdb
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.AssemblyInfoInputs.cache
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.AssemblyInfo.cs
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.csproj.CoreCompileInputs.cache
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.dll
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\refint\PropertiesAndAutoProperties.dll
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.pdb
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\PropertiesAndAutoProperties.genruntimeconfig.cache
+C:\classes\Alunos\Jose Pedro\PropertiesAndAutoProperties\obj\Debug\net6.0\ref\PropertiesAndAutoProperties.dll
